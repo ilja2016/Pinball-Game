@@ -1,0 +1,10 @@
+﻿  Quellen werden auf Modulabhängigkeiten überprüft...
+  main.cpp
+  ofApp.cpp
+  Paddle.cpp
+  Pinball.cpp
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /FORCE ignoriert.
+     Bibliothek "bin\Pinball_Game_debug.lib" und Objekt "bin\Pinball_Game_debug.exp" werden erstellt.
+  Pinball_Game.vcxproj -> C:\Openframework\of_v0.12.1_vs_64_release\apps\myApps\Pinball_Game\bin\Pinball_Game_debug.exe
+  Datei *.dll nicht gefunden
+  0 Datei(en) kopiert
